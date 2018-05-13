@@ -1,6 +1,4 @@
-# ORNL-AtomicScaleDefectTracking
-
-Deep Learning Analysis of Defect and Phase Evolution During Electron Beam Induced Transformations in WS<sub>2</sub>
+# Deep Learning Analysis of Defect and Phase Evolution During Electron Beam Induced Transformations in WS<sub>2</sub>
 
 Supplementary code for the paper: https://arxiv.org/abs/1803.05381
 
