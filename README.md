@@ -15,6 +15,13 @@ This repository contains 3 notebooks.
   1.4) Clustering the extracted defects using a Gausian Mixture Model (GMM).  
   1.5) Tracking the evolution of selected defects and calculating diffusion 
   
+  <p align="center">
+    <img src="https://github.com/artemmaksov/ORNL-DeepLearningForAtomicScaleDefectTracking/blob/master/MovieClustered_50.gif?raw=true" width="400" height="400" />
+  </p>
+  
 2. WS2_Defects_LocalCryst_PCA.ipynb uses clustered defects to perfrom local crystallographic analysis using principal component analysis (PCA) 
 
 3. WS2_Defects_Markov_Transitions.ipynb uses extracted defect trajectories to calculate transition probabilities.  
+
+
+
